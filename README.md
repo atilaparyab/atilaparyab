@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atila Paryabbohlouli</h1>
+<h1 align="center">Hi 👋, I'm Atila Paryab</h1>
 <h3 align="center">Computer Engineer · M.Sc. student in Artificial Intelligence & Machine Learning</h3>
 
 - 🎓 Master's student at **Marmara University** (AI & Machine Learning)
