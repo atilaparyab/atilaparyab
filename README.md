@@ -2,7 +2,6 @@
 <h3 align="center">Computer Engineer · M.Sc. student in Artificial Intelligence & Machine Learning</h3>
 
 - 🎓 Master's student at **Marmara University** (AI & Machine Learning)
-- 🔭 Currently working on **Yordam Foundation Website** (Next.js & Laravel) and **PROJECTSHOW** (React & Node.js)
 - 🧠 Interested in **Deep Learning, NLP, Computer Vision** and **full-stack web development**
 - 🏆 Scholar at **Artificial Intelligence and Technology Academy (Google)** and **Kodluyoruz & IBM Advanced AI Program**
 - 🌍 Erasmus+ alumnus, Konstantin Preslavsky University of Shumen, Bulgaria
