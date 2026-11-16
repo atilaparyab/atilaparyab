@@ -53,6 +53,7 @@
 | **Pneumonia Detection** | CNN-based pneumonia detection from chest X-rays using transfer learning | Python, ResNet / VGG16 |
 | **Hallucination Detection in Search** | Automated fact-checking of LLM answers against search results | Python, LLMs |
 | **Suzea** | E-commerce website built on a microservice architecture | .NET (C#), MSSQL |
+| **AgroAsistan** | Data-driven smart irrigation assistant that combines live weather data with soil and crop properties to tell farmers which day, what time and how many minutes to irrigate | React, FastAPI, PostgreSQL, Python, JavaScript, TypeScript, HTML, CSS |
 
 ## 📊 Atila's GitHub Streak
 
